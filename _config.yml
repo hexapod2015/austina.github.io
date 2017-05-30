@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: wr0315@outlook.com
 description: "王蓉，toB Designer，UX Designer | 这里是 @Austina王蓉 的个人博客。"
 keyword: "王蓉、设计师、ux、交互设计、B端产品、用户体验"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://hexapod2015.github.io/austina.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -48,15 +48,15 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Austina
 
 # Netease setttings
-netease_comment: true
+netease_comment: false
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: AustinaBlog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                    # set to false if you want to use Comment without Sharing
 
 
 
@@ -73,7 +73,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "挣扎着做个全栈设计师 <br>当你追求卓越的时候成功就会追上"
+sidebar-about-description: "要挣扎着做个全栈设计师 <br>当你追求卓越的时候成功就会追上"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
