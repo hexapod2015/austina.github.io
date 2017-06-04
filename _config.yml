@@ -48,13 +48,13 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: Austina
+disqus_username: austina
 
 # Netease setttings
 netease_comment: false
 
 # Duoshuo settings
-duoshuo_username: AustinaBlog
+duoshuo_username: austina
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: false                    # set to false if you want to use Comment without Sharing
 
@@ -73,7 +73,7 @@ duoshuo_share: false                    # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "要挣扎着做个全栈设计师 <br>当你追求卓越的时候成功就会追上"
+sidebar-about-description: "数据 / 广告类产品设计师 <br>想折腾着做个全栈设计师"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
