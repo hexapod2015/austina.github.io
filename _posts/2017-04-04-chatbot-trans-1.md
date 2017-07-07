@@ -4,7 +4,7 @@ title:      "对于聊天机器人的基本设计原则：会话式界面的设�
 subtitle:   "Chatbot系列翻译"
 date:       2017-04-04 12:00:00
 author:     "Austina W"
-header-img: "img/post-bg-chatbot-tran-1.jpg"
+header-img: "http://omqsjp4nk.bkt.clouddn.com/post-bg-chatbot-tran-1.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

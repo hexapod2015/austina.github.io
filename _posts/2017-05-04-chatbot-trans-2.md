@@ -4,7 +4,7 @@ title:      "Chatbot设计框架"
 subtitle:   "Chatbot系列翻译"
 date:       2017-05-04 12:00:00
 author:     "Austina W"
-header-img: "img/post-bg-chatbot-tran-2.png"
+header-img: "http://omqsjp4nk.bkt.clouddn.com/post-bg-chatbot-tran-2.png"
 header-mask: 0.3
 tags:
 
