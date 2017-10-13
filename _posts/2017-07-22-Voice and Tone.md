@@ -2,19 +2,16 @@
 layout:     post
 title:      "你的设计团队雇不上文案的时候怎么办？"
 subtitle:   "设计规范"
-date:       2017-07-24 12:00:00
+date:       2017-07-22 12:00:00
 author:     "Austina W"
-header-img: ""
+header-img: "http://omqsjp4nk.bkt.clouddn.com/post-bg-chatbot-tran-2.png"
 header-mask: 0.3
-catalog:    true
 tags:
 
     - 设计规范
-    - voice and tone
-    - 知乎
+    - 文案写作
+
 ---
-
-
 
 *"Words are really important because the graphics don’t make sense sometimes."*
 
