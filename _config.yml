@@ -6,7 +6,7 @@ email: wr0315@outlook.com
 description: "王蓉，toB Designer，UX Designer | 这里是 @Austina王蓉 的个人博客。"
 keyword: "王蓉、设计师、ux、交互设计、B端产品、用户体验"
 url: "https://hexapod2015.github.io/austina.github.io/"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "austina.github.io"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
