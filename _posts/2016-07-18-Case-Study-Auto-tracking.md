@@ -57,11 +57,9 @@ Auto tracking是一款网站流量监测与数据分析的数据产品。V2.2版
 
 *我参与了该部分的讨论，最终的产出由主设完成*
 
+![信息架构图](http://omqsjp4nk.bkt.clouddn.com/%E7%94%BB%E6%9D%BF%207%20%E5%89%AF%E6%9C%AC@2x.png)
 
-
-![信息架构图]()
-
-![页面流程图]()
+![页面流程图](http://omqsjp4nk.bkt.clouddn.com/%E9%A1%B5%E9%9D%A2%E6%95%B4%E4%BD%93%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1.jpg)
 
 
 
@@ -71,12 +69,14 @@ Auto tracking是一款网站流量监测与数据分析的数据产品。V2.2版
 
 *该部分有我独立完成*
 
-![页面流程图]()
+![页面流程图](http://omqsjp4nk.bkt.clouddn.com/%E9%A1%B5%E9%9D%A2%E7%BB%B4%E5%BA%A6@2x.png)
 
-![页面布局]()
+![页面布局](http://omqsjp4nk.bkt.clouddn.com/%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.png)
 
 ##### 交互规范
 
 在页面的布局上，考虑到报告模块各维度层级间的一致性以及之后的可扩展性，形成了页面模块化，统一控件的使用，并在项目后沉淀了相应的产品交互规范。
 
-![交互规范]()
+![交互规范](http://omqsjp4nk.bkt.clouddn.com/ilovepdf_com-1.jpg)
+
+![交互规范](http://omqsjp4nk.bkt.clouddn.com/ilovepdf_com-2.jpg)
